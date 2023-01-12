@@ -8,4 +8,4 @@
 
 [Here](团队回顾总结.pdf) is our retrospective after using Scrum, an agile development framework.
 
-**My main contribute code is [Question and Answering NLP](code/NLP/NLP.ipynb), [Named Entity Recognition](code/NLP/实体识别及语义.ipynb), [Data Crawler](code/crawler/Spider.ipynb) and [Table Extraction from PDF](code/text_extract/Table_extract.ipynb), and [data storage](code/Neo4j/数据集转换.ipynb) and [query](code/Neo4j/neo4j查询.ipynb) in Neo4j.**
+**My contribitions of code are [Question and Answering NLP](code/NLP/NLP.ipynb), [Named Entity Recognition](code/NLP/实体识别及语义.ipynb), [Data Crawler](code/crawler/Spider.ipynb) and [Table Extraction from PDF](code/text_extract/Table_extract.ipynb), and [data storage](code/Neo4j/数据集转换.ipynb) and [query](code/Neo4j/neo4j查询.ipynb) in Neo4j.**
