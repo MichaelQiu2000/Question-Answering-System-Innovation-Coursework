@@ -1,6 +1,6 @@
 # Question-Answering-System-Innovation-Coursework
 
-### This project construct a question-answering system about wealth investment products in the cloud utilizing the technology of knowledge graph and natural language processing.
+### This project construct a question-answering system about wealth management products in the cloud utilizing the technology of knowledge graph and natural language processing.
 
 [Here](金融产品指导师.docx) is the technical details about the system.
 
